@@ -1,0 +1,41 @@
+@font-face{
+font-family: "MrRobot";
+
+src:
+local("css/mrrobot1.ttf") format("truetype"),
+local("css/MrRobot.otf") format("opentype");
+    font-family: "MrRobot";    
+
+}
+
+body {
+ background-color: #0c7074; 
+ padding: 0;
+ margin: 0;          
+    
+}
+hr {
+border-style: dotted none none none;
+color: #13abc4;
+width: 10%;
+border-width: 10px;
+vertical-align: center;   
+
+}
+             
+img{
+height: 300px;
+ width: 200px;
+}
+h3{
+    color: #3161a3;
+}
+
+h1{
+    color: #1b4177;
+    font-family: "MrRobot" ;    
+
+
+}
+
+/* https://colorhunt.co/palette/136330 */
